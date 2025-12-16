@@ -247,9 +247,6 @@ Explore additional projects including:
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GajjarB&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GajjarB&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9" alt="Contribution Streak" />
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GajjarB&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" />
 
 </div>
