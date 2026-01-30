@@ -9,7 +9,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-vadgama-163ab9252)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargav.vd03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargav.gajjar06@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GajjarB)
 
 <img src="https://komarev.com/ghpvc/?username=GajjarB&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -303,7 +303,7 @@ opportunities = [
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-vadgama-163ab9252)
-[![Email](https://img.shields.io/badge/Email-bhargav.vd03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargav.vd03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bhargav.vd03@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargav.gajjar06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_for_Updates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GajjarB)
 
 <br/>
