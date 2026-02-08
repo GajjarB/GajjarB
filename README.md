@@ -26,7 +26,7 @@
 
 ---
 
-## `>> whoami`
+## `>> who_am_i`
 
 ```python
 class SoftwareEngineer:
@@ -53,8 +53,8 @@ class SoftwareEngineer:
 <div align="center">
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GajjarB&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GajjarB&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border_radius=10" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=GajjarB&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&include_all_commits=true" width="49%" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GajjarB&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border_radius=10" width="49%" /> 
 
 </div>
 
@@ -144,7 +144,7 @@ backend_cloud = {
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GajjarB&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=10&langs_count=8" width="55%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GajjarB&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=10&langs_count=8" width="55%" /> -->
 
 </div>
 
@@ -196,7 +196,7 @@ ML Accuracy
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GajjarB&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=GajjarB&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" /> -->
 
 </div>
 
@@ -278,10 +278,6 @@ def lets_collaborate():
 <br>
 
 **⚡ Crafting elegant software solutions, one commit at a time**
-
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/GajjarB/count.svg)
 
 <br>
 
