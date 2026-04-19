@@ -43,6 +43,8 @@ class SoftwareEngineer:
             "practices": ["Clean Architecture", "MVVM", "TDD", "CI/CD"]
         }
         
+        self.experience = "3+ years professional Android & AI development"
+        
         self.impact = {
             "users_reached": "10M+",
             "crash_free_rate": "95%",
@@ -54,7 +56,8 @@ class SoftwareEngineer:
 <br>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=GajjarB&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&include_all_commits=true" width="49%" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GajjarB&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border_radius=10" width="49%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GajjarB&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GajjarB&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=10&langs_count=8&cache_seconds=86400" width="45%" />
 
 </div>
 
@@ -135,6 +138,18 @@ backend_cloud = {
 
 ---
 
+## `>> ls projects/`
+
+<div align="center">
+
+| 🔬 Project | Description | Stack | Link |
+|---|---|---|---|
+| **CLARANS Clustering** | Graph-based randomized medoid clustering for customer segmentation. Includes K-Means comparison, interactive visualizations, and full documentation. | Python · Jupyter · scikit-learn · Pandas · Matplotlib | [View →](https://github.com/GajjarB/Clarans-Clustering) |
+
+</div>
+
+---
+
 ## `>> cat stats.log`
 
 <div align="center">
@@ -160,35 +175,40 @@ backend_cloud = {
 <br>
 <strong>👥</strong><br>
 <strong>10M+</strong><br>
-Users Reached
+Users Reached<br>
+<sub>across production Android apps</sub>
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
 <strong>⚡</strong><br>
 <strong>95%</strong><br>
-Crash-Free Rate
+Crash-Free Rate<br>
+<sub>via Firebase Crashlytics</sub>
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
 <strong>📄</strong><br>
 <strong>15K+</strong><br>
-Documents Processed
+Documents Processed<br>
+<sub>via on-device ML pipeline</sub>
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
 <strong>⭐</strong><br>
 <strong>4.6/5</strong><br>
-Average Rating
+Average Rating<br>
+<sub>avg Play Store rating</sub>
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
 <strong>🤖</strong><br>
 <strong>92%</strong><br>
-ML Accuracy
+ML Accuracy<br>
+<sub>on-device classification</sub>
 <br><br>
 </td>
 </tr>
@@ -196,7 +216,7 @@ ML Accuracy
 
 <br>
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=GajjarB&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=GajjarB&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
 </div>
 
@@ -220,10 +240,10 @@ focus_2025 = {
     ],
     
     "open_to": [
-        "Software Engineering roles",
-        "Research collaborations",
-        "Technical mentorship",
-        "Open-source contributions"
+        "Senior Android / Mobile Engineer roles (remote · Germany)",
+        "Mobile + AI hybrid engineering positions",
+        "Research Engineering in on-device ML / Edge AI",
+        "Open-source collaborations in Android or ML"
     ]
 }
 ```
@@ -264,7 +284,7 @@ def lets_collaborate():
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GajjarB/GajjarB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br><br>
 
