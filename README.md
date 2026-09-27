@@ -158,35 +158,30 @@ backend_cloud = {
 <tr>
 <td align="center" width="20%">
 <br>
-<strong>👥</strong><br>
 <strong>10M+</strong><br>
 Users Reached
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
-<strong>⚡</strong><br>
 <strong>95%</strong><br>
 Crash-Free Rate
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
-<strong>📄</strong><br>
 <strong>15K+</strong><br>
 Documents Processed
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
-<strong>⭐</strong><br>
 <strong>4.6/5</strong><br>
 Average Rating
 <br><br>
 </td>
 <td align="center" width="20%">
 <br>
-<strong>🤖</strong><br>
 <strong>92%</strong><br>
 ML Accuracy
 <br><br>
