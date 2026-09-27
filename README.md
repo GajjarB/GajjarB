@@ -64,7 +64,7 @@ class SoftwareEngineer:
 
 <div align="center">
 
-### 📱 **Mobile Development**
+### **Mobile Development**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -88,7 +88,7 @@ mobile_stack = {
 
 <div align="center">
 
-### 🤖 **AI & Machine Learning**
+### **AI & Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -110,7 +110,7 @@ ai_ml_expertise = {
 
 <div align="center">
 
-### ☁️ **Backend & Cloud**
+### **Backend & Cloud**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -237,7 +237,7 @@ focus_2025 = {
 ```ascii
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║  💬 Let's Build Something Amazing Together                 ║
+║     Let's Build Something Amazing Together                 ║
 ║                                                            ║
 ║  Passionate about creating impactful software solutions    ║
 ║  Open to discussing architecture, AI/ML, and innovation    ║
@@ -255,7 +255,7 @@ focus_2025 = {
 
 ```python
 def lets_collaborate():
-    return "Response time: Usually within 24 hours ⚡"
+    return "Response time: Usually within 24 hours"
 ```
 
 </div>
@@ -270,14 +270,14 @@ def lets_collaborate():
 
 ```ascii
 ┌───────────────────────────────────────────────────────────┐
-│  "Code is like humor. When you have to explain it,       │
+│  "Code is like humor. When you have to explain it,        │
 │   it's bad."                        — Cory House          │
 └───────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
-**⚡ Crafting elegant software solutions, one commit at a time**
+**Crafting elegant software solutions, one commit at a time**
 
 <br>
 
